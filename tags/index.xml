@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on My New Hugo Site</title>
+    <link>http://example.org/tags/</link>
+    <description>Recent content in Tags on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 02 Apr 2018 11:35:25 -0700</lastBuildDate>
+    
+	<atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Ageing</title>
+      <link>http://example.org/tags/ageing/</link>
+      <pubDate>Mon, 02 Apr 2018 11:35:25 -0700</pubDate>
+      
+      <guid>http://example.org/tags/ageing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Asana</title>
+      <link>http://example.org/tags/asana/</link>
+      <pubDate>Mon, 02 Apr 2018 11:35:25 -0700</pubDate>
+      
+      <guid>http://example.org/tags/asana/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Awesomeness</title>
+      <link>http://example.org/tags/awesomeness/</link>
+      <pubDate>Mon, 02 Apr 2018 11:32:25 -0700</pubDate>
+      
+      <guid>http://example.org/tags/awesomeness/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Beauty</title>
+      <link>http://example.org/tags/beauty/</link>
+      <pubDate>Mon, 02 Apr 2018 11:35:25 -0700</pubDate>
+      
+      <guid>http://example.org/tags/beauty/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Grace</title>
+      <link>http://example.org/tags/grace/</link>
+      <pubDate>Mon, 02 Apr 2018 11:32:25 -0700</pubDate>
+      
+      <guid>http://example.org/tags/grace/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yoga</title>
+      <link>http://example.org/tags/yoga/</link>
+      <pubDate>Mon, 02 Apr 2018 11:35:25 -0700</pubDate>
+      
+      <guid>http://example.org/tags/yoga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
