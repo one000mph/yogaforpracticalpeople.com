@@ -1,4 +1,4 @@
-baseURL = "http://yogaforpracticalpeople.com/"
+baseURL = "http://example.org/"
 languageCode = "en-us"
 title = "Yoga For Practical People"
 theme = "strata"
