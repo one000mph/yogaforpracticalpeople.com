@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Awesome on My New Hugo Site</title>
-    <link>http://example.org/categories/awesome/</link>
-    <description>Recent content in Awesome on My New Hugo Site</description>
+    <title>Awesome on Yoga For Practical People</title>
+    <link>http://yogaforpracticalpeople.com/categories/awesome/</link>
+    <description>Recent content in Awesome on Yoga For Practical People</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Apr 2018 11:32:25 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/awesome/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yogaforpracticalpeople.com/categories/awesome/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>How to be Awesome</title>
-      <link>http://example.org/post/blog-1/</link>
+      <link>http://yogaforpracticalpeople.com/post/blog-1/</link>
       <pubDate>Mon, 02 Apr 2018 11:32:25 -0700</pubDate>
       
-      <guid>http://example.org/post/blog-1/</guid>
+      <guid>http://yogaforpracticalpeople.com/post/blog-1/</guid>
       <description>Just be yourself :D</description>
     </item>
     

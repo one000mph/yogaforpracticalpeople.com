@@ -1,31 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
-    <description>Recent content in Categories on My New Hugo Site</description>
+    <title>Categories on Yoga For Practical People</title>
+    <link>http://yogaforpracticalpeople.com/categories/</link>
+    <description>Recent content in Categories on Yoga For Practical People</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 02 Apr 2018 11:32:25 -0700</lastBuildDate>
     
-	<atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://yogaforpracticalpeople.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Awesome</title>
-      <link>http://example.org/categories/awesome/</link>
+      <link>http://yogaforpracticalpeople.com/categories/awesome/</link>
       <pubDate>Mon, 02 Apr 2018 11:32:25 -0700</pubDate>
       
-      <guid>http://example.org/categories/awesome/</guid>
+      <guid>http://yogaforpracticalpeople.com/categories/awesome/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Yoga</title>
-      <link>http://example.org/categories/yoga/</link>
+      <link>http://yogaforpracticalpeople.com/categories/yoga/</link>
       <pubDate>Mon, 02 Apr 2018 11:35:25 -0700</pubDate>
       
-      <guid>http://example.org/categories/yoga/</guid>
+      <guid>http://yogaforpracticalpeople.com/categories/yoga/</guid>
       <description></description>
     </item>
     
