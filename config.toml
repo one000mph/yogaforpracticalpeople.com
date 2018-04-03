@@ -9,7 +9,6 @@ theme = "strata"
     date_format = "2006-01-02"
 
     [params.sidebar]
-        avatar = "left-sidebar.jpg"
         bio = "Yoga For Practical People is on a mission to share the teachings of yoga with people like you."
         instagram = "yogaforpracticalpeople"
         facebook= "yogaforpracticalpeople"
@@ -23,11 +22,34 @@ theme = "strata"
     [params.about]
         hide = false
         title = "Yoga for Practical People"
-        content = "Yoga doesn't have to be fancy (but, you know, if you wanna be fancy i'm not gonna stop you). Yoga is way to explore how your body, mind, and spirit all work together. It'll help you become a more durable, grounded, and interesting person. Start here to discover how yoga can enrich your life. "
+        content = "Yoga doesn't have to be fancy (but if you wanna be fancy i'm not gonna stop you). Yoga is way to explore how your body, mind, and spirit all work together. If you stick with it yoga will help you become a more durable, grounded, and interesting person. Start here to discover how yoga can enrich your life. "
 
     [params.portfolio]
         hide = false
-        title = ""
+        title = "Fav Photos"
+
+        [[params.portfolio.gallery]]
+            image = "fulls/dhanurasana-full.jpeg"
+            thumb = "thumbs/dhanurasana-thumb.jpeg"
+        [[params.portfolio.gallery]]
+            image = "fulls/hasta-padangusthasana-full.jpeg"
+            thumb = "thumbs/hasta-padangusthasana-thumb.jpeg"
+        [[params.portfolio.gallery]]
+            image = "fulls/eight-angle-full.jpeg"
+            thumb = "thumbs/eight-angle-thumb.jpeg"
+        [[params.portfolio.gallery]]
+            image = "fulls/tuladandasana-full.jpeg"
+            thumb = "thumbs/tuladandasana-thumb.jpeg"
+        [[params.portfolio.gallery]]
+            image = "fulls/mermaid-full.jpeg"
+            thumb = "thumbs/mermaid-thumb.jpeg"
+        [[params.portfolio.gallery]]
+            image = "fulls/warrior2-full.jpeg"
+            thumb = "thumbs/warrior2-thumb.jpeg"
+
+    [params.recentposts]
+        hide = false
+        title = "Recent blog posts"
 
     [params.contact]
         hide = false
@@ -35,18 +57,26 @@ theme = "strata"
         content = "I'm currently scheduling workshops in the Pacific Northwest, booking private instruction, and taking requests for video and blog content. If you just want to say hi, that's great too :)"
 
         address = [
-                    "Richland, WA"
+                    "Richland, WA",
                     "United States"
         ]
         phone = "509-969-5128"
         email = "yogaforpracticalpeople@gmail.com"
+
+        [params.contact.form]
+            # Set custom strings for the form if your native
+            # language isn't English
+            name = "Name"
+            email = "Email"
+            message = "Message"
+            submit = "Send message"
 
 [[menu.main]]
     name = "Home"
     url = "/"
     weight = 0
 
-[[manu.main]]
+[[menu.main]]
     name = "Blog"
     url = "post/"
     weight = 5
