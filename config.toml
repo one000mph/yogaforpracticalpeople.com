@@ -1,6 +1,6 @@
-baseURL = "http://example.org/"
+baseURL = "http://yogaforpracticalpeople.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Yoga For Practical People"
 theme = "strata"
 
 [params]
