@@ -1,0 +1,55 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+theme = "strata"
+
+[params]
+    name = "Heather Young"
+    description = "Yoga For Practical People is blog and educational platform for people like you"
+    date_format = "2006-01-02"
+
+    [params.sidebar]
+        avatar = "left-sidebar.jpg"
+        bio = "Yoga For Practical People is on a mission to share the teachings of yoga with people like you."
+        instagram = "yogaforpracticalpeople"
+        facebook= "yogaforpracticalpeople"
+
+        copyright = [
+            "&copy; Heather Young",
+            "Design: [digitalcraftsman](https://github.com/digitalcraftsman/hugo-strata-theme)",
+            "Photography: [Rebecca Weller](https://www.facebook.com/rebecca.yates.50)"
+        ]
+
+    [params.about]
+        hide = false
+        title = "Yoga for Practical People"
+        content = "Yoga doesn't have to be fancy (but, you know, if you wanna be fancy i'm not gonna stop you). Yoga is way to explore how your body, mind, and spirit all work together. It'll help you become a more durable, grounded, and interesting person. Start here to discover how yoga can enrich your life. "
+
+    [params.portfolio]
+        hide = false
+        title = ""
+
+    [params.contact]
+        hide = false
+        title = "Care to Chat?"
+        content = "I'm currently scheduling workshops in the Pacific Northwest, booking private instruction, and taking requests for video and blog content. If you just want to say hi, that's great too :)"
+
+        address = [
+                    "Richland, WA"
+                    "United States"
+        ]
+        phone = "509-969-5128"
+        email = "yogaforpracticalpeople@gmail.com"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 0
+
+[[manu.main]]
+    name = "Blog"
+    url = "post/"
+    weight = 5
+
+
+
