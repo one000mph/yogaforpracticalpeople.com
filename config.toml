@@ -8,15 +8,18 @@ theme = "strata"
     description = "Yoga For Practical People is blog and educational platform for people like you"
     date_format = "2006-01-02"
 
+    custom_css  = ['css/custom.css']
+
     [params.sidebar]
         bio = "Yoga For Practical People is on a mission to share the teachings of yoga with people like you."
         instagram = "yogaforpracticalpeople"
         facebook= "yogaforpracticalpeople"
+        avatar = "avatar.jpg"
 
         copyright = [
-            "&copy; Heather Young",
+            "&copy 2019; Heather Young",
             "Design: [digitalcraftsman](https://github.com/digitalcraftsman/hugo-strata-theme)",
-            "Photography: [Rebecca Weller](https://www.facebook.com/rebecca.yates.50)"
+            "Photography: [Rebecca Weller](https://www.instagram.com/bnbfitnesslife)"
         ]
 
     [params.about]
@@ -54,11 +57,11 @@ theme = "strata"
     [params.contact]
         hide = false
         title = "Care to Chat?"
-        content = "I'm currently scheduling workshops in the Pacific Northwest, booking private instruction, and taking requests for video and blog content. If you just want to say hi, that's great too :)"
+        content = "I'm currently taking a break from regular teaching but I am taking requests for video and blog content. If you just want to say hi, that's great too :)"
 
         address = [
-                    "Richland, WA",
-                    "United States"
+                    "Somewhere In",
+                    "Asia"
         ]
         phone = "509-969-5128"
         email = "yogaforpracticalpeople@gmail.com"

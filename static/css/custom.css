@@ -1,0 +1,25 @@
+#top {
+  --header-text-color: #fff;
+}
+
+#header h1 {
+  color: var(--header-text-color);
+}
+
+#header .image.avatar {
+  display: none;
+}
+
+#sidebar ul li a, #sidebar ul li a a:visited {
+  color: var(--header-text-color);
+  text-decoration: none;
+}
+
+
+#footer .copyright {
+  color: var(--header-text-color);
+}
+
+#footer .icons a {
+  color: var(--header-text-color);
+}
