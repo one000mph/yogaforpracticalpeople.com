@@ -51,7 +51,7 @@ theme = "strata"
             thumb = "thumbs/warrior2-thumb.jpeg"
 
     [params.recentposts]
-        hide = false
+        hide = true
         title = "Recent blog posts"
 
     [params.contact]
